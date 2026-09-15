@@ -1,0 +1,9 @@
+{
+  "name": "IDE Piano",
+  "short_name": "IDE Piano",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "orientation": "portrait"
+}
